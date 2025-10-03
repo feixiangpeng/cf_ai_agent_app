@@ -24,7 +24,7 @@ npx wrangler login
 npm run dev
 ```
 
-Open http://localhost:8787
+Then open the localhost URL shown in your terminal (typically http://localhost:8787)
 
 ## Deploy
 
