@@ -1,6 +1,8 @@
 # cf_ai_agent_app
 
 Simple AI chat app built on Cloudflare for the assignment.
+<img width="889" height="700" alt="Screenshot 2025-10-03 at 02 39 04" src="https://github.com/user-attachments/assets/7091ad4d-9f9d-4227-b208-91e3f9935876" />
+
 
 ## What it does
 
